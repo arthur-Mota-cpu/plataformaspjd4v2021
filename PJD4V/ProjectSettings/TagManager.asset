@@ -3,25 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - Kill
-  - Victory
-  - EnergyBit
-  - TakeEnergy
-  - ExtraLife
-  - PlayerBullet
-  - Coin
-  - Enemy
-  - Ground
-  - Key
-  - Door
-  - Checkpoint
-<<<<<<< HEAD
-  - Press "Z"
-=======
-  - Switch
-  - Spike
->>>>>>> 82368e829ddea555cff46edab6a2a3d8c7060d3b
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -29,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - Ground
-  - Kill
+  - 
+  - 
   - 
   - 
   - 
@@ -58,18 +40,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Background
-    uniqueID: 269571921
-    locked: 0
-  - name: Acid
-    uniqueID: 2223620967
-    locked: 0
-  - name: Gameplay
-    uniqueID: 3087511507
-    locked: 0
-  - name: Player
-    uniqueID: 2991732355
     locked: 0
   m_RenderingLayers:
   - Default
