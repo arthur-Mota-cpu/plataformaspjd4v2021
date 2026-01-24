@@ -16,7 +16,12 @@ TagManager:
   - Key
   - Door
   - Checkpoint
+<<<<<<< HEAD
   - Press "Z"
+=======
+  - Switch
+  - Spike
+>>>>>>> 82368e829ddea555cff46edab6a2a3d8c7060d3b
   layers:
   - Default
   - TransparentFX
