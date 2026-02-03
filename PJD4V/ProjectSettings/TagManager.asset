@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Ground
+  - Kill
+  - EnergyBit
+  - Enemy
+  - Spike
+  - Switch
+  - Key
+  - Coin
+  - Door
+  - Checkpoint
+  - ExtraLife
+  - Victory
+  - PlayerBullet
   layers:
   - Default
   - TransparentFX
@@ -11,7 +24,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -40,6 +53,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 671641531
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3901462935
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3965924339
     locked: 0
   m_RenderingLayers:
   - Default
